@@ -23,7 +23,7 @@
 > app to manage frontend of the application running on both `Ruby-on-Rails` and `React`.
 > The app display a ramdom message from the server using `React` component
 
-- `Hello Rails Backtend` APP Link: [Backend App](https://github.com/username-forGithub/rails_to_render)
+- `Hello Rails Backend` APP Link: [Backend App](https://github.com/username-forGithub/rails_to_render)
 
 ## 🛠 Built With <a name="built-with"></a>
 
