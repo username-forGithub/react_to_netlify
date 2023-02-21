@@ -23,8 +23,8 @@
 > app to manage frontend of the application running on both `Ruby-on-Rails` and `React`.
 > The app display a ramdom message from the server using `React` component
 
-- `Hello Rails Backend` PR Link: [Backend APP PR](https://github.com/PraisesPJMT/Hello-Rails-Backend/pull/1)
-- `Hello Rails Backtend` APP Link: [Backend App](https://github.com/PraisesPJMT/Hello-Rails-Backend)
+
+- `Hello Rails Backend` APP Link: [Backend App](https://github.com/username-forGithub/rails_to_render)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -74,6 +74,14 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Click Me](https://react-front-api.netlify.app/) 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -114,6 +122,49 @@ To run the project, execute the following command:
 
 - After running `npm start`, use the app on [http://localhost:3000/](http://localhost:3000/) in the browser!
 - For more information please visit [Ruby-on-Rails](https://rubyonrails.org/).
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Prerequisites
+
+> The following applications are required to be installed for the project to run!
+
+- Install Ruby on your computer (machine)
+- Install a modern browser e.g [Google Chrome](https://www.google.com/chrome/), [Edge](https://www.microsoft.com/en-us/edge?r=1), [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/) etc.
+- Install [Node.js](https://nodejs.org/en/download/) LTS version
+- Install [Git](https://git-scm.com/downloads)
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  git clone https://github.com/username-forGithub/react_to_netlify
+  cd react_to_netlify
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm start
+```
+
+- After running `npm start`, use the app on [http://localhost:3000/](http://localhost:3000/) in the browser!
+- For more information please visit [Ruby-on-Rails](https://rubyonrails.org/).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,4 +207,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
