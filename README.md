@@ -92,8 +92,8 @@
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:PraisesPJMT/Hello-React-Frontend.git
-  cd Hello-React-Frontend
+  git clone https://github.com/username-forGithub/react_to_netlify
+  cd react_to_netlify
 ```
 
 ### Install
